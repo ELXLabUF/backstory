@@ -1,4 +1,4 @@
-# Backstory2
+# Backstory
 ***The StoryLab at Texas A&M Android Wear Application***
 
 ### Purpose
